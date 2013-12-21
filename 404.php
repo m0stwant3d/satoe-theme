@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <div id="content" class="narrowcolumn">
-	<h1 class="searching">I'm sorry but the Page You're Looking for Is Not Here</h1>
+	<h1 class="searching">We're sorry but the Page You're Looking for Is Not Here</h1>
 	<strong>Let us Help You Find What you are Looking For</strong>
 	<p>We can't find the page you're currently looking for but there are a few ways that we might be able to track it down for you.</p>
 	<p><strong>Search</strong> - use the following search box to track down the page you're after:</p>
